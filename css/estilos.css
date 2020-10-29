@@ -2,16 +2,34 @@ body {
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: azure;
+    margin: 0;
 }
 
 .container {
     border: 1px solid gainsboro;
     margin: 0 auto;
-    padding: 2em;
+    padding: 0;
     width: 500px;
     text-align: left;
+    box-shadow: 2px 0px 10px  grey;
+    border-radius: 10px;
+
 }
 
+.cabecera {
+    background: rgb(25, 124, 94);
+    box-shadow: 2px 0px 10px  grey;
+    color: ghostwhite;
+    font-weight: bold;
+    margin: 0;  
+    padding: 0.5em;
+    border-radius: 10px 0px 0px 0px;
+    border: 0px 1px 0px solid gainsboro;
+}
+
+.post {
+    padding: .5em 2em .5em;
+}
 h1 {
     font-size: 25px;
     border-bottom: 1px solid rgb(220, 235, 235);
