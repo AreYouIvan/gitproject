@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: helvetica;
+    background-color: azure;
+}
+
+.container {
+    border: 1px solid gainsboro;
+    margin: 0 auto;
+    padding: 2em;
+    width: 500px;
+    text-align: left;
+}
+
+h1 {
+    font-size: 25px;
+    border-bottom: 1px solid rgb(220, 235, 235);
+    width: 300px; 
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+.post
