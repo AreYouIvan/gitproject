@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: Helvetica;
-    background-color: rgb(178, 209, 209);
+    background-color: #164D84;
     margin: 0;
 }
 
@@ -18,7 +18,7 @@ body {
 }
 
 .cabecera {
-    background: rgb(25, 124, 94);
+    background: #159D21;
     box-shadow: 2px 0px 10px  grey;
     color: ghostwhite;
     font-weight: bold;
@@ -28,6 +28,11 @@ body {
     border: 0px 1px 0px solid gainsboro;
 }
 
+#logo { 
+    width: 25px;
+    vertical-align: middle;
+
+}
 .post {
     padding: .5em 2em .5em;
 }
