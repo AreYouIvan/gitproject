@@ -15,3 +15,4 @@ Amigos les recuerdo que pueden seguirme en mis redes sociales como:
 * [Twitter](https://twitter.com/AreYouIvan)
 
 * Creado por el increible platziteam, Incluye ejemplos en windows linux y Mac
+Disponible para todas las edades
