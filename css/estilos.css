@@ -18,7 +18,7 @@ body {
 }
 
 .cabecera {
-    background: #159D21;
+    background: red;
     box-shadow: 2px 0px 10px  grey;
     color: ghostwhite;
     font-weight: bold;
